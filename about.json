@@ -2,8 +2,19 @@
   "name": "Cuckoo",
   "about_url": null,
   "license_url": null,
-  "assets": {
-  },
+  "assets": {},
   "color_schemes": {
+    "Cuckoo main colour pallette": {
+      "primary": "212121",
+      "secondary": "fafafa",
+      "tertiary": "ff5252",
+      "quaternary": "2196f3",
+      "header_background": "ffffff",
+      "header_primary": "05010A",
+      "highlight": "3180e5",
+      "danger": "f44336",
+      "success": "33CC66",
+      "love": "F362C4"
+    }
   }
 }
